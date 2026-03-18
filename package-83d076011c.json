@@ -1,0 +1,15 @@
+{
+  "name": "baby-name-system",
+  "version": "1.0.0",
+  "description": "宝宝取名定制系统 - 支持卡密验证功能",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
